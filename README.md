@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CaesarChen284
+- 👀 I’m fascinated by full-stack development, decentralized tech, and cutting-edge JavaScript frameworks.
+- 🌱 Currently sharpening my skills in serverless architecture and Ethereum layer-2 solutions.
+- 💞️ Excited to collaborate on innovative dApps, performance optimization, and open-source projects.
+- 📫 Reach out to me at Github.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex coding challenges and can spend hours refining algorithms for fun!
